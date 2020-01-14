@@ -1,4 +1,7 @@
 # Projects
 
-## Airline Reservation System
+### Airline Reservation System
 In this project, I have tried making an airline reservation system in C language using the concept of structures and data file handling.
+
+### Bus Ticket Reservation System
+In this project, I have tried making a bus ticket reservation system in C++ language using the concept of pointers, object oriented programming (OOP) and data file handling.
