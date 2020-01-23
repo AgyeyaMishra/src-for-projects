@@ -1,6 +1,6 @@
 # Projects
 
-### Projet 1 - Airline Reservation System
+### Project 1 - Airline Reservation System
 In this project, I have tried making an airline reservation system in C language using the concept of structures and data file handling.
 
 ### Project 2 - Bus Ticket Reservation System
